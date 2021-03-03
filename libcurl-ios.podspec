@@ -77,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/maytrue/libcurl-ios.git", :commit => "7342d38a2388235ff1e55e0d8c08f9d1fe38c62e" }
+  s.source       = { :git => "https://github.com/maytrue/libcurl-ios.git", :commit => "06426a4cb5d6d3b669f36ab15894e8247d6d5869" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
