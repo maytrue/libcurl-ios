@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "libcurl-ios"
-  s.version      = "0.0.1"
+  s.version      = "7.56.1"
   s.summary      = "Pre-compiled libcurl"
 
   # This description is used to generate tags and improve search results.
@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
   pre-compiled libcurl for iOS
                    DESC
 
-  s.homepage     = "https://github.com/nolili/libcurl-ios"
+  s.homepage     = "https://github.com/maytrue/libcurl-ios"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
 
 
@@ -53,10 +53,7 @@ Pod::Spec.new do |s|
   #  profile URL.
   #
 
-  s.author             = { "Noritaka Kamiya" => "email@address.com" }
-  # Or just: s.author    = "Noritaka Kamiya"
-  # s.authors            = { "Noritaka Kamiya" => "email@address.com" }
-  # s.social_media_url   = "http://twitter.com/Noritaka Kamiya"
+  s.author             = { "maytrue" => "email@address.com" }
 
   # ――― Platform Specifics ――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
@@ -80,7 +77,7 @@ Pod::Spec.new do |s|
   #  Supports git, hg, bzr, svn and HTTP.
   #
 
-  s.source       = { :git => "https://github.com/nolili/libcurl-ios.git", :commit => "7342d38a2388235ff1e55e0d8c08f9d1fe38c62e" }
+  s.source       = { :git => "https://github.com/maytrue/libcurl-ios.git", :commit => "7342d38a2388235ff1e55e0d8c08f9d1fe38c62e" }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
